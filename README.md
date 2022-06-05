@@ -13,7 +13,7 @@ Summary of the work includes:
 - [Suspension_Coil.csv](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/Data/Suspension_Coil.csv)
 - R language and RStudio
 
-# Results and Analysis
+## Results and Analysis
 ## Linear Regression to Predict MPG
 
 Linear Regression Model:

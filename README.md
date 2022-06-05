@@ -29,6 +29,7 @@ Analysis:
 For our multiple linear regression model, below are the null and alternative hypothesis:
 
 H0: The slope of the linear model is 0
+
 Ha: The slope of the linear model is not 0 
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -97,6 +98,7 @@ With the rise in hybrid and electric vehicles, I think its important to test mai
 
 What is the null and alternative hypothesis?
 H0: There is no difference in the performance of the MechaCar and its competitors in the metrics above 
+
 Ha: There is statistically significanct difference in the performance of the MechaCar and its competitors in the metrics above
 
 What statistical test would you use to test the hypothesis?

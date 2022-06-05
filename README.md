@@ -80,6 +80,7 @@ T-test on all lots:
 The given P-value is that of 0.0628, indicating that we do not reject the null and there is no statistical significance between the means.
 
 T-test on individual lots:
+
 **Lot 1**
 
 ![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/t-test%20lot1.png)

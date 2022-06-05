@@ -11,7 +11,7 @@ Summary of the work includes:
 ## Resources and Software
 - [MechaCar_mpg.csv](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/Data/MechaCar_mpg.csv)
 - [Suspension_Coil.csv](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/Data/Suspension_Coil.csv)
-- R language and RStudio
+- ```R language and RStudio```
 
 ## Results and Analysis
 ### Linear Regression to Predict MPG
@@ -25,4 +25,4 @@ Summary Statistics:
 
 ![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/statistical%20summary%20MechaCar_mpg.png)
 
-hi
+

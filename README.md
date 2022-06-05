@@ -9,14 +9,14 @@ Summary of the work includes:
 - Designed a statistical study comparing MechaCar performance against other vehicles
 
 ## Resources and Software
-- [a link](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/Data/MechaCar_mpg.csv)
-- [a link](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/Data/Suspension_Coil.csv)
+- [MechaCar_mpg.csv](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/Data/MechaCar_mpg.csv)
+- [Suspension_Coil.csv](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/Data/Suspension_Coil.csv)
 - R language and RStudio
 
 ## Results and Analysis
 ###### Linear Regression to Predict MPG
 Linear Regression Model:
-[!This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/linear%20regression%20MechaCar_mpg.png)
+![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/linear%20regression%20MechaCar_mpg.png)
 
 Summary Statistics:
-[!This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/statistical%20summary%20MechaCar_mpg.png)
+![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/statistical%20summary%20MechaCar_mpg.png)

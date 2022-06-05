@@ -14,7 +14,7 @@ Summary of the work includes:
 - R language and RStudio
 
 ## Results and Analysis
-## Linear Regression to Predict MPG
+### Linear Regression to Predict MPG
 
 Linear Regression Model:
 

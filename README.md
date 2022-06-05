@@ -17,8 +17,12 @@ Summary of the work includes:
 ## Linear Regression to Predict MPG
 
 Linear Regression Model:
+
 ![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/linear%20regression%20MechaCar_mpg.png)
 
 
 Summary Statistics:
+
 ![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/statistical%20summary%20MechaCar_mpg.png)
+
+hi

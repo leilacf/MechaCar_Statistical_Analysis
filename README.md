@@ -53,11 +53,13 @@ The design specifications for the MechaCar suspension coils dictate that the var
 Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? 
 
 Total Summary:
+
 ![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/total_summary%20df.png)
 
 The total summary for the manufacturing data indicates that the lots meet the design specifications as the variance is 62.29356.
 
 Per Lot summary:
+
 ![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/lot_summary%20df.png)
 
 However, not all of the individual lots meet the design specification. Lot's 1-2 indicate a variance of 0.9795918 and 7.4693878, but Lot 3 fails as it presents a variance of 170.2861224.
@@ -72,18 +74,22 @@ H0: There is no statistical significance between the PSI and the population mean
 Ha: There is a statistical significance between the PSI and the population mean of 1,500 
 
 T-test on all lots:
+
 ![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/t-test%20all.png)
 
 The given P-value is that of 0.0628, indicating that we do not reject the null and there is no statistical significance between the means.
 
 T-test on individual lots:
 **Lot 1**
+
 ![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/t-test%20lot1.png)
 
 **Lot 2**
+
 ![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/t-test%20lot2.png)
 
 **Lot 3**
+
 ![This is an image](https://github.com/leilacf/MechaCar_Statistical_Analysis/blob/main/R%20Images/t-test%20lot3.png)
 
 - The P-value for lot 1 is equal to 1, indicating that we do not reject the null and there is no statistical significance between the means
@@ -94,17 +100,21 @@ T-test on individual lots:
 For future analysis, the following evaluations and measures can be used to better understand the performance of the MechaCar with its competitors.
 
 What metrics will you test?
+
 With the rise in hybrid and electric vehicles, I think its important to test maintenance cost, fuel efficient/electric motor capacity, tailpipe emissions, and mileage. 
 
 What is the null and alternative hypothesis?
+
 H0: There is no difference in the performance of the MechaCar and its competitors in the metrics above 
 
 Ha: There is statistically significanct difference in the performance of the MechaCar and its competitors in the metrics above
 
 What statistical test would you use to test the hypothesis?
+
 ANOVA statistical test can be used here as it aids in answering: is there a statistical difference between the distribution means from multiple samples?
 
 What data is needed to run the statistical test?
+
 To conduct this study, additional data needed includes:
 - Vehicle make and model ID
 - Price range and maintanence cost data
